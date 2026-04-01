@@ -1,4 +1,4 @@
-# 🚀 30 Days of AI Mastery (April 2026)
+# 30 Days of AI Mastery (April 2026)
 
 ![30 Days of AI Mastery Banner](assets/Readme.png)
 
@@ -6,7 +6,7 @@ A complete, industry-level AI Engineer roadmap (April 2026 edition) covering the
 
 ---
 
-## 📅 Week 1 – Core Foundations (AI + LLM Internals)
+## Week 1 – Core Foundations (AI + LLM Internals)
 
 **Day 1: AI Ecosystem Overview**
 - AI vs ML vs Deep Learning  
@@ -46,7 +46,7 @@ A complete, industry-level AI Engineer roadmap (April 2026 edition) covering the
 
 ---
 
-## 📅 Week 2 – Data, Embeddings & Retrieval Systems
+## Week 2 – Data, Embeddings & Retrieval Systems
 
 **Day 8: Data Preparation**
 - Text cleaning  
@@ -85,7 +85,7 @@ A complete, industry-level AI Engineer roadmap (April 2026 edition) covering the
 
 ---
 
-## 📅 Week 3 – Advanced AI Engineering, Agents & Automation
+## Week 3 – Advanced AI Engineering, Agents & Automation
 
 **Day 15: Advanced RAG**
 - Hybrid search  
@@ -122,7 +122,7 @@ A complete, industry-level AI Engineer roadmap (April 2026 edition) covering the
 
 ---
 
-## 📅 Week 4 – Automation, Deployment & Advanced Topics
+## Week 4 – Automation, Deployment & Advanced Topics
 
 **Day 22: Workflow Automation (VERY IMPORTANT)**
 - n8n basics  
@@ -171,7 +171,7 @@ A complete, industry-level AI Engineer roadmap (April 2026 edition) covering the
 
 ---
 
-## ✅ What This Roadmap Covers
+## What This Roadmap Covers
 
 - **LLM internals**  
 - **RAG (basic → advanced)**  
@@ -187,13 +187,13 @@ A complete, industry-level AI Engineer roadmap (April 2026 edition) covering the
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To give you a complete, no-fluff AI Engineer roadmap focused on concept mastery and system understanding, not just isolated projects.
 
 ---
 
-## 📌 Who Is This For?
+## Who Is This For?
 
 - Students  
 - Developers  
@@ -203,7 +203,7 @@ To give you a complete, no-fluff AI Engineer roadmap focused on concept mastery 
 
 ---
 
-## ⭐ Support
+## Support
 
 If you find this helpful, please ⭐ star the repo and share it with others learning AI.
 

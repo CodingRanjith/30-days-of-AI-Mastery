@@ -1,5 +1,7 @@
 # Day 01 – AI Ecosystem Overview
 
+![Day 01 – Introduction to AI Ecosystem](img/Day%2001.png)
+
 **Theme:** Week 1 – Core Foundations (AI + LLM Internals)  
 **Date:** 2026-04-01
 

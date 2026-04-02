@@ -1,5 +1,7 @@
 # Day 02 – LLM Fundamentals
 
+![Day 02 – LLM Basics](img/Day%20-02.png)
+
 **Theme:** Week 1 – Core Foundations (AI + LLM Internals)  
 **Date:** 2026-04-02
 

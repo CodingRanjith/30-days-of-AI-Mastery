@@ -1,6 +1,6 @@
 # Day 03 – Transformers Deep Dive
 
-![Day 03 – Transformers Deep Dive](img/Day-03.png)
+![Day 03 – Transformers Architecture](Day%2003.png)
 
 **Theme:** Week 1 – Core Foundations (AI + LLM Internals)  
 **Date:** 2026-04-03
@@ -230,7 +230,7 @@ Understanding the architecture helps you design:
 - Better **evaluation** strategies.  
 - More realistic expectations about what LLMs can and cannot do.
 
-
+add 
 ## References and Resources
 
 - **Core papers and explainers**:  

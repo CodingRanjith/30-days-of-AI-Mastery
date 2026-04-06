@@ -1,6 +1,6 @@
 # Day 05 – Tokenization
 
-![Day 05 – Tokenization](day%205.png)
+![Day 05 – Tokenization](Day%2005.png)
 
 **Theme:** Week 1 – Core Foundations (AI + LLM Internals)  
 **Date:** 2026-04-05

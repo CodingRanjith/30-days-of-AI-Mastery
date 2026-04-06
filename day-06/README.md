@@ -1,6 +1,6 @@
 # Day 06 – Model Ecosystem (OpenAI, LLaMA, Gemini, and Beyond)
 
-![Day 06 – Model Ecosystem](day%206.png)
+![Day 06 – Model Ecosystem](day%2006.png)
 
 **Theme:** Week 1 – Core Foundations (AI + LLM Internals)  
 **Date:** 2026-04-06

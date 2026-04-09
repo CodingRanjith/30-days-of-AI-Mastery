@@ -1,5 +1,7 @@
 # Day 08 - Data Preparation for AI Pipelines
 
+![Day 08 - Data Preparation for AI Pipelines](day%208.png)
+
 **Theme:** Week 2 - Data, Prompting, and Evaluation  
 **Date:** 2026-04-08
 

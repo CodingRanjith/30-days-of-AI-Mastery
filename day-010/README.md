@@ -1,5 +1,7 @@
 # Day 10 - Embedding Models
 
+![Day 10 - Embedding Models](day%2010.png)
+
 **Theme:** Week 2 - Retrieval, Search, and Knowledge Grounding  
 **Date:** 2026-04-10
 

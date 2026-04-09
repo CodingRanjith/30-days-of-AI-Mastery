@@ -1,5 +1,7 @@
 # Day 07 – Hugging Face & Open Models
 
+![Day 07 – Hugging Face & Open Models](day%207.png)
+
 **Theme:** Week 1 – Core Foundations (AI + LLM Internals)  
 **Date:** 2026-04-07
 

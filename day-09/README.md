@@ -1,5 +1,7 @@
 # Day 09 - Chunking Strategies
 
+![Day 09 - Chunking Strategies](day%209.png)
+
 **Theme:** Week 2 - Retrieval and Context Engineering  
 **Date:** 2026-04-09
 

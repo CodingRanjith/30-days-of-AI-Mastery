@@ -1,5 +1,7 @@
 # Day 15 - Advanced RAG
 
+![Day 15 - Advanced RAG](day%2015.png)
+
 **Theme:** Week 3 - Retrieval Systems and Production Patterns  
 **Date:** 2026-04-15
 

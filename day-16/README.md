@@ -1,5 +1,7 @@
 # Day 16 - RAG Evaluation and Guardrails
 
+![Day 16 - RAG Evaluation and Guardrails](day%2016.png)
+
 **Theme:** Week 3 - Retrieval Systems and Production Patterns  
 **Date:** 2026-04-16
 

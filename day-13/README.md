@@ -1,5 +1,7 @@
 # Day 13 - Retrievers
 
+![Day 13 - Retrievers](day%2013.png)
+
 **Theme:** Week 2 - Retrieval, Search, and Knowledge Grounding  
 **Date:** 2026-04-13
 

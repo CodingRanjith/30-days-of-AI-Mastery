@@ -1,5 +1,7 @@
 # Day 11 - Vector Databases
 
+![Day 11 - Vector Databases](day%2011.png)
+
 **Theme:** Week 2 - Retrieval, Search, and Knowledge Grounding  
 **Date:** 2026-04-11
 

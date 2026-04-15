@@ -1,5 +1,7 @@
 # Day 14 - RAG Fundamentals
 
+![Day 14 - RAG Fundamentals](day%2014.png)
+
 **Theme:** Week 3 - Retrieval-Augmented Systems  
 **Date:** 2026-04-14
 
